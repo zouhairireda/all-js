@@ -1,0 +1,27 @@
+{
+  "name": "all-js",
+  "version": "1.0.0",
+  "description": "fullstack application with js technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouhairireda/all-js.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "gulp",
+    "angularjs",
+    "browserify",
+    "browsersync"
+  ],
+  "author": "Reda Zouhairi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zouhairireda/all-js/issues"
+  },
+  "homepage": "https://github.com/zouhairireda/all-js#readme"
+}
