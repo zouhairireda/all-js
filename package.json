@@ -1,27 +1,36 @@
 {
-  "name": "all-js",
+  "name": "angularapp",
   "version": "1.0.0",
-  "description": "fullstack application with js technology",
-  "main": "index.js",
+  "description": "A scalable structure for angular apps",
+  "main": "\u001b ",
   "scripts": {
-    "test": "node index.js"
+    "test": " "
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zouhairireda/all-js.git"
+    "url": " "
   },
-  "keywords": [
-    "js",
-    "nodejs",
-    "gulp",
-    "angularjs",
-    "browserify",
-    "browsersync"
-  ],
-  "author": "Reda Zouhairi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/zouhairireda/all-js/issues"
+  "author": "Rahil Shaikh",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.9.11",
+    "browserify": "^12.0.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-environments": "^0.1.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-minify": "0.0.5",
+    "gulp-sass": "^2.1.0",
+    "gulp-uglify": "^1.4.2",
+    "preprocess": "^3.0.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
   },
-  "homepage": "https://github.com/zouhairireda/all-js#readme"
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-animate": "^1.4.7",
+    "angular-aria": "^1.4.7",
+    "angular-material": "^0.11.4",
+    "angular-ui-router": "^0.2.15"
+  }
 }
